@@ -1,0 +1,5 @@
+Sean todos bienvenidos
+A la creacion de bots con Python
+Este codigo esta hecho y pensado
+Para poder mandar mensajes en cadena
+A cualquier lugar donde podamos escrbir
