@@ -26,9 +26,9 @@ despues instale numpy y nuevamente l pyautogui
 ## Ahora crearemos una carpeta en VSC
 con el nombre 'bot_Python'
 una vez creado crearemos dentro de esta carpeta un archivo que se llamara bot.py donde pondremos el codigo 
-### bot_Python/bot.py
+- [bot.py](https://github.com/ElJoamy/creacion_De_Bots_Con_Python/blob/main/bot_Python/bot.py)
 tambien crearemos un 'spam.txt' que nos va a permitir poner todas las cadenas de txto que queramos enviar y listo
-### bot_Python/spam.txt
+- [spam.txt](https://github.com/ElJoamy/creacion_De_Bots_Con_Python/blob/main/bot_Python/spam.txt)
 
 ## Ejecucion
 para ejecutar este bot lo unico que debemos hacer es abrir en la ubicacion del archivo y ejecutar el 'bot.py' una vez ejecutado pondremos nuestro cursor en alguna linea donde s puda escribir y dejaremos qu el bot envie todas las cadenas de texto qule pusimos
