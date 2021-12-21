@@ -36,7 +36,7 @@ para ejecutar este bot lo unico que debemos hacer es abrir en la ubicacion del a
 Esto nos permitira ejcutarlo sinnecesidad de abrir VSC
 podemos editar el texto de cadenas en el archivo 'spam.txt'
 
-redes sociales
+## Redes sociales
 ## [Instagram](https://www.instagram.com/joseph_joamy/)
 ## [Facebook](https://www.facebook.com/josephanthony.menesessalguero/)
 ## [twitter](https://twitter.com/JosephJoamy)
