@@ -35,7 +35,7 @@ podemos editar el texto de cadenas en el archivo 'spam.txt'
 
 redes sociales
 ## Instagram: https://www.instagram.com/joseph_joamy/
-## Facebook: https://n9.cl/faceb__
+## Facebook: https://www.facebook.com/josephanthony.menesessalguero/
 ## twitter: https://twitter.com/JosephJoamy
 ## Twitch: https://www.twitch.tv/eljoamy
 ## Stackoverflow: https://stackoverflow.com/users/17728089/joamy
