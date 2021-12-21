@@ -1,4 +1,4 @@
-# creacionde_Bots_Con_Python
+# creacion_De_Bots_Con_Python
 El siguiente bot ha sido creado en pyhton para ser utilziado en diferentes entornos como ser: Whatsapp, Messenger, Instagram, Twitter, Telegram y cualquier lugar donde podamos mandar mensajes
 
 Para poder crear este bot debemos segur los siguientes pasos:
