@@ -3,7 +3,7 @@ El siguiente bot ha sido creado en pyhton para ser utilziado en diferentes entor
 
 Para poder crear este bot debemos segur los siguientes pasos:
 
-##Instalar python
+## Instalar python
 Debemos instalar python en nuestro ordenador, de preferencia debe ser la version mas actualzada de python
 https://www.python.org/downloads/
 
