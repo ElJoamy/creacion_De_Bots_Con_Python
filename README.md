@@ -37,9 +37,9 @@ Esto nos permitira ejcutarlo sinnecesidad de abrir VSC
 podemos editar el texto de cadenas en el archivo 'spam.txt'
 
 redes sociales
-## Instagram: https://www.instagram.com/joseph_joamy/
-## Facebook: https://www.facebook.com/josephanthony.menesessalguero/
-## twitter: https://twitter.com/JosephJoamy
-## Twitch: https://www.twitch.tv/eljoamy
-## Stackoverflow: https://stackoverflow.com/users/17728089/joamy
-## linkedln: https://www.linkedin.com/in/joamy592002
+## [Instagram](https://www.instagram.com/joseph_joamy/)
+## [Facebook](https://www.facebook.com/josephanthony.menesessalguero/)
+## [twitter](https://twitter.com/JosephJoamy)
+## [Twitch](https://www.twitch.tv/eljoamy)
+## [Stackoverflow](https://stackoverflow.com/users/17728089/joamy)
+## [linkedln](https://www.linkedin.com/in/joamy592002)
